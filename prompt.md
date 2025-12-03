@@ -1,0 +1,1 @@
+uses agents.md for instructions use AFTIA Solutions_Resume for the resume
